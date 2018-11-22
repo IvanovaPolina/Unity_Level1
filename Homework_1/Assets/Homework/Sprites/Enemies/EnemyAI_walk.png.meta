@@ -1,0 +1,385 @@
+fileFormatVersion: 2
+guid: c5bac028d3267734c910e44862c0ee40
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: EnemyAI_walk_0
+    21300002: EnemyAI_walk_1
+    21300004: EnemyAI_walk_2
+    21300006: EnemyAI_walk_3
+    21300008: EnemyAI_walk_4
+    21300010: EnemyAI_walk_5
+    21300012: EnemyAI_walk_6
+    21300014: EnemyAI_walk_7
+    21300016: EnemyAI_walk_8
+    21300018: EnemyAI_walk_9
+    21300020: EnemyAI_walk_10
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 65
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnemyAI_walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 46}
+        - {x: -33, y: -46}
+        - {x: 33, y: -46}
+        - {x: 33, y: 46}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547dc582ae0f4ae47976cb725c6c041c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyAI_walk_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 419
+        width: 66
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 46}
+        - {x: -33, y: -46}
+        - {x: 33, y: -46}
+        - {x: 33, y: 46}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd8df95fb7f6114eab606f08ab24e64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyAI_walk_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 420
+        width: 67
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.5, y: 46}
+        - {x: -33.5, y: 46}
+        - {x: -33.5, y: -46}
+        - {x: 33.5, y: -46}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb6880d4bce1f74c8cc329e36917304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyAI_walk_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 328
+        width: 67
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 46}
+        - {x: -33.5, y: -46}
+        - {x: 33.5, y: -46}
+        - {x: 33.5, y: 46}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd51387d5af6a247a04784fd5e1fa23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyAI_walk_4
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 328
+        width: 66
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 46}
+        - {x: -33, y: -46}
+        - {x: 33, y: -46}
+        - {x: 33, y: 46}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f8f5f9ed491304d8ab5a83e42e0903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyAI_walk_5
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 328
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 46}
+        - {x: -34.5, y: -46}
+        - {x: 34.5, y: -46}
+        - {x: 34.5, y: 46}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4a111ce9dcdd24cb9cd4eeb4b7a058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyAI_walk_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 46}
+        - {x: -34, y: -46}
+        - {x: 34, y: -46}
+        - {x: 34, y: 46}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc62c8d1de233b47afe02f46f9a2ed3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyAI_walk_7
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 236
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.5, y: 46}
+        - {x: -34.5, y: 46}
+        - {x: -34.5, y: -46}
+        - {x: 34.5, y: -46}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496baaa799973a245a8f06a3dd7c26c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyAI_walk_8
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 236
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.5, y: 46}
+        - {x: -34.5, y: 46}
+        - {x: -34.5, y: -46}
+        - {x: 34.5, y: -46}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940c8b56022e5d74eb50532855113a58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyAI_walk_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 68
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 46}
+        - {x: -34, y: -46}
+        - {x: 34, y: -46}
+        - {x: 34, y: 46}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f18e056ae8e2914da5c79b9b10c7efc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyAI_walk_10
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 144
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 46}
+        - {x: -34, y: -46}
+        - {x: 34, y: -46}
+        - {x: 34, y: 46}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4fa02eadb71204ea666d28425c47d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2f53ccbcb79b63843938d8b34ee6f3ab
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
